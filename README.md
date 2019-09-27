@@ -1,4 +1,4 @@
-# Decision-tree-based-Premier-league-prediction
+# Decision tree-based Premier league prediction
 Designing a Decision tree-based prediction algorithm to decide winning team in Premier league season
 Implement an algorithm that builds a 3-level decision tree to predict the outcome of the games Liverpool played in the 2017/2018 premier league season. The training data given in the file “Training_Data.xlsx” is the outcome of all games of all other teams that ended in the win of one of the two competing teams. The decision tree should predict, based on the values of the given attributes, whether the home team or the away team of the game in which Liverpool is playing will win the game. The attributes given in the file for each game are as follows:
 
