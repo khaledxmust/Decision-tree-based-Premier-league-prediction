@@ -38,4 +38,4 @@ Requirements:
 
 • A confusion matrix for the games Liverpool played given in the testing data file “Liverpool.xlsx”.
 
-- As i did build the algorithm but didn't complete the test-part feel free to help.
+• As i did build the algorithm but didn't complete the test-part feel free to help.
